@@ -1,7 +1,7 @@
 import React from 'react';
 import 'jairo./.css';
 
-export default function jairo() {
+export default function Jairo() {
 
     return (
         <section className='saludo'>
