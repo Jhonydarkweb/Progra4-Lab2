@@ -1,5 +1,5 @@
 import React from 'react';
-import 'jairo./.css';
+import 'Jairo./.css';
 
 export default function Jairo() {
 

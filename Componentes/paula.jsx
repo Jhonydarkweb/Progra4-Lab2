@@ -1,5 +1,5 @@
 import React from 'react';
-import 'paula./.css';
+import 'Paula./.css';
 
 export default function Paula() {
 
