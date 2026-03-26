@@ -1,7 +1,7 @@
 import React from 'react';
 import 'jhon./.css';
 
-export default function jhon() {
+export default function Jhon() {
 
     return (
         <section className='saludo'>
