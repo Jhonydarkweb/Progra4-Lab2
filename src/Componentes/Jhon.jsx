@@ -1,5 +1,5 @@
 import React from 'react';
-import 'Jhon./.css';
+import './Jhon./.css';
 
 export default function Jhon() {
 
