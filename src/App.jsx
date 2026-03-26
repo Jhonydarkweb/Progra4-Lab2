@@ -29,6 +29,10 @@ function App() {
         </button>
       </section>
 
+      <jairo />
+      <paula />
+      <jhon />
+      
       <div className="ticks"></div>
 
       <section id="next-steps">

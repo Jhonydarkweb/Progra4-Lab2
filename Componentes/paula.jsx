@@ -1,7 +1,7 @@
 import React from 'react';
-import 'jhon./.css';
+import 'paula./.css';
 
-export default function jhon() {
+export default function paula() {
 
     return (
         <section className='saludo'>
@@ -11,4 +11,3 @@ export default function jhon() {
         </section>
     );
 }
-
