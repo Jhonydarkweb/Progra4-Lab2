@@ -1,7 +1,7 @@
 import React from 'react';
-import 'paula./.css';
+import './Paula./.css';
 
-export default function paula() {
+export default function Paula() {
 
     return (
         <section className='saludo'>
